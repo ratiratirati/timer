@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family: 'BPG Algeti';
+
+}
+
+
+#status{
+    margin-top: 15%;
+}
+
+p{
+    font-size: 70px;
+}
+
+a{
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.fff{
+    font-size: 60px;
+    margin-top: 20%;
+}
